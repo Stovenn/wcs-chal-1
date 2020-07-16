@@ -5,7 +5,7 @@
 Step 1
 Clone this repository 
 ```bash
-  git clone
+  git clone https://github.com/Stovenn/wcs-chal-1.git
 ```
 
 Step 2
